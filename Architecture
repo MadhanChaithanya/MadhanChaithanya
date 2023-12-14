@@ -1,0 +1,71 @@
+SOFTWARE ARCHITECTURES:
+
+1. ONE-TIER 
+
+2. TWO-TIER
+
+3. THREE-TIER
+
+4. N-TIER
+
+
+
+TIER: SERVER: LAYER
+
+
+
+SERVER: servers the services to the end user.
+
+1. web server: 
+
+2. app server:
+
+3. db server:
+
+
+
+
+
+WEB SERVER:
+
+it is also called as the presentation layer.
+
+to show the application.
+
+who works: ui/ux developers
+
+what they use: web technologies
+
+ex: html, css, js
+
+
+
+APP SERVER: 
+
+To use the application.
+
+also called the logic layer
+
+who work: backend developers
+
+what they use: programming
+
+ex: java, python, c, c++, .net, go --------
+
+
+
+
+
+DB SERVER:
+
+It also called as db layer.
+
+To store & retrieve data.
+
+who work: db admins
+
+what they use: db languages
+
+ex: sql, oracle, postgres, arango ----
+
+
